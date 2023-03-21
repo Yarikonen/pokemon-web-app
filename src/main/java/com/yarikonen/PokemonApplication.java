@@ -1,4 +1,4 @@
-package com.example.pokemon;
+package com.yarikonen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
